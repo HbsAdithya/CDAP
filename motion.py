@@ -25,7 +25,7 @@ COMMASPACE = ', '
 
 def Send_Email(image):
     sender = 'adithyashashith@gmail.com'
-    gmail_password = 'Sa@0719451383'
+    gmail_password = '*******'
     recipients = ['Security']
 
     # Create the enclosing (outer) message
